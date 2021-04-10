@@ -18,4 +18,6 @@ Randomly 0 0.89
 
 However the randomly initialsed model is much closer to the validation set finally than the one which is pretrained the reason being that we might have overfit the pretrained model due to the headstart of model parameters.
 
+-----Subtask 3 ------
 
+Labels were not given so randomly initialsed labels to introduce noise in the dataset, proceed in the direction of fine tuning the existing state of the art classification models on this training dataset to solve the classification problem
