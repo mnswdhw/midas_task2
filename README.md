@@ -21,3 +21,10 @@ However the randomly initialsed model is much closer to the validation set final
 -----Subtask 3 ------
 
 Labels were not given so randomly initialsed labels to introduce noise in the dataset, proceed in the direction of fine tuning the existing state of the art classification models on this training dataset to solve the classification problem
+
+
+Citations
+https://hackernoon.com/how-to-measure-quality-when-training-machine-learning-models-cc9196dd377a
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/
+
